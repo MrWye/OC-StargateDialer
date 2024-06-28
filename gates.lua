@@ -44,6 +44,7 @@ function gates.getGateByAddress(addr)
       if gates["list"][i][2] == addr then return gates["list"][i]
   end
 end
-
 return nil
+end
+
 return gates

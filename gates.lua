@@ -46,4 +46,4 @@ function gates.getGateByAddress(addr)
 end
 
 return nil
-return
+return gates

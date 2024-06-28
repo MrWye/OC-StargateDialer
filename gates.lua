@@ -10,7 +10,7 @@ local gates = {
 		{"Ganymede", "T9RF-IJS-D7"},
 		{"Europa", "59LX-6PA-ER"},
 		{"Ross128b", "99LE-NP0-3T"},
-    {"Ross128ba", "59FR-6VM-3Q"},
+   		{"Ross128ba", "59FR-6VM-3Q"},
 		{"Io", "8Y44-P0F-BH"},
 		{"Venus", "WY4Y-J0L-4X"},
 		{"Mercury", "8Y44-P0F-ZR"},

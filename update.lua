@@ -1,11 +1,11 @@
 local dir = "dialer"
-local root = "https://raw.githubusercontent.com/MrWye/dialer/main"
+local root = "https://bigbass1997.com/ocprograms/"..dir.."/"
 
 os.execute("clear")
---os.execute("mkdir /"..dir)
+os.execute("mkdir /"..dir)
 
 function download(filename)
-    os.execute("wget -f '"..root..filename.."'"..filename)
+    os.execute("wget -f '"..root..filename.."' /"..dir.."/"..filename)
 end
 
 if string.find(package.path, "dialer") == nil then

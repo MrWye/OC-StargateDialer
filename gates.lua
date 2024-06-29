@@ -1,6 +1,6 @@
 local gates = {
     list = {
-		{"Moon", "5993-IVM-SM"},
+		{"Moon", "M1LC-XR9-TR"},
 		{"Mars", "T939-U1G-KE"},
 		{"Phobos", "593X-I1Y-IZ"},
 		{"Deimos", "T939-U1G-1B"},

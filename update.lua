@@ -6,7 +6,7 @@ os.execute("mkdir /"..dir)
 
 function download(filename)
  -- os.execute("wget -f '"..root..filename.."' /"..dir.."/"..filename)
-    os.execute("wget -f '"..root..filename.."' "..filename)
+    os.execute("wget -f '"..root..filename.."'"..filename)
 end
 
 if string.find(package.path, "dialer") == nil then

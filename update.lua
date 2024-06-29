@@ -1,5 +1,5 @@
 local dir = "dialer"
-local root = "https://github.com/MrWye/OC-StargateDialer/"..dir.."/"
+local root = "https://github.com/MrWye/dialer/"..dir.."/"
 
 os.execute("clear")
 os.execute("mkdir /"..dir)
